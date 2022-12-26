@@ -16,7 +16,7 @@ This will be used as a base model for [**AI VTuber Elan Mitsua🖌️**](https:/
 
 ❗❗ **Currently the model has super low visual quality and limited diversity** ❗❗
 
-Yes, the visual quality is not so good. Most of modern artistic concept is lost completely. However, since she is a growing AI, it would be good starting point for Mitsua-chan!
+Yes, the visual quality is not so good. Most of modern artistic concept is lost completely. However, since she is a growing AI in an ethical fashion, it would be good starting point for Mitsua-chan!
 
 You can join [her training on Twitter](https://twitter.com/elanmitsua)! Please support Mitsua-chan!🎉 
 
