@@ -1,0 +1,13 @@
+prompt,seed,width,height,sampler,cfgs,steps,filename,negative_prompt
+"woman portrait, a renaissance painting",2223691271,512,512,Euler a,7,20,"00057-2223691271-woman portrait, a renaissance painting.png",
+"a painting of ancient japanese style building, an impressionism painting",2038742433,512,512,Euler a,7,20,"00012-2038742433-a painting of ancient japanese style building, an impressionism painting.png",
+"a european woman standing, modern european clothing,  futuristic tokyo skyscrapers background, ukiyo-e, full body, profile",2622340661,512,512,Euler a,7,20,"00022-2622340661-a european woman standing, modern european clothing,  futuristic tokyo skyscrapers background, ukiyo-e, full body, profile.png",
+"majestic colossal ancient tree, volumetric soft light",2696695228,512,512,Euler a,7,20,"00032-2696695228-majestic colossal ancient tree, volumetric soft light.png",
+"'answer to life the universe and everything, a surrealism painting",811213365,512,512,Euler a,7,20,"00042-811213365-'answer to life the universe and everything, a surrealism painting.png",
+"beautiful huge waterfalls, surrounded by msssive cherryblossom, a post impressionism painting",2109470573,512,512,Euler a,7,20,"00027-2109470573-beautiful huge waterfalls, surrounded by msssive cherryblossom, a post impressionism painting.png",
+"anime girl portrait, an impressionism painting, anime, anime, anime",187751988,512,512,Euler a,7,20,"00067-187751988-anime girl portrait, an impressionism painting, anime, anime, anime.png",
+"a painting of new york sky scrapers, in the style of ukiyo e",370313639,512,512,Euler a,7,20,"00017-370313639-a painting of new york sky scrapers, in the style of ukiyo e.png",
+"answer to life the universe and everything, generative art, ray trace rendering, particles",3149998815,512,512,Euler a,7,20,"00037-3149998815-answer to life the universe and everything, generative art, ray trace rendering, particles.png",
+"answer to life universe and everything,  a renaissance painting",2454845476,512,512,Euler a,7,20,"00047-2454845476-answer to life universe and everything,  a renaissance painting.png",
+"a vacant classroom with chair and desk, sunset from side",849557893,512,512,Euler a,7,20,"00052-849557893-a vacant classroom with chair and desk, sunset from side.png",
+"girl portrait, an impressionism painting",876562301,512,512,Euler a,7,20,"00062-876562301-girl portrait, an impressionism painting.png",
