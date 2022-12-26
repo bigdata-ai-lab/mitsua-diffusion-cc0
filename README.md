@@ -20,7 +20,9 @@ Yes, the visual quality is not so good. Most of modern artistic concept is lost 
 
 You can join [her training on Twitter](https://twitter.com/elanmitsua)! Please support Mitsua-chan!🎉 
 
+![Header](https://huggingface.co/Mitsua/mitsua-diffusion-cc0/resolve/main/images/mitsua_cc0_works.webp)
 
+You can check [here to all prompts to generate these images](https://huggingface.co/Mitsua/mitsua-diffusion-cc0/resolve/main/images/mitsua_cc0_works_prompts.csv).
 
 ## Training Data Sources
 All data was obtained ethically and in compliance with the site's terms and conditions. 
