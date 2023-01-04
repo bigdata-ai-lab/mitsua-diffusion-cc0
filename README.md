@@ -12,13 +12,17 @@ Mitsua Diffusion CC0 is a latent text-to-image diffusion model, whose U-Net is *
 
 Text Encoder and VAE are borrowed from [Stable Diffusion v2.1 base](https://huggingface.co/stabilityai/stable-diffusion-2-1-base/). 
 
-This will be used as a base model for [**AI VTuber Elan Mitsua🖌️**](https://elanmitsua.com/)’s activity. 
+This will be used as a base model for [**AI VTuber Elan Mitsua🖌️**](https://elanmitsua.com/en/)’s activity. 
 
 ❗❗ **Currently the model has super low visual quality and limited diversity** ❗❗
 
 Yes, the visual quality is not so good. Most of modern artistic concept is lost completely. However, since she is a growing AI in an ethical fashion, it would be good starting point for Mitsua-chan!
 
 You can join [her training on Twitter](https://twitter.com/elanmitsua)! Please support Mitsua-chan!🎉 
+
+Further training will be done in a fully opt-in basis. If you are interested in, [please click here to submit an opt-in application](https://forms.gle/Nk3M7UyqSgYAqdpA6).
+
+We are active on [a Discord server for opt-in participants only](https://discord.com/invite/7VTGRweTUg). Communication is currently in Japanese.
 
 ![Header](https://huggingface.co/Mitsua/mitsua-diffusion-cc0/resolve/main/images/mitsua_cc0_works.webp)
 
